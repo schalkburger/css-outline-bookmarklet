@@ -22,4 +22,4 @@ javascript:if%20(!(%22is_debugging%22%20in%20window))%20%7B%0A%20%20is_debugging
 
 ---
 
-This orignal code is from zaydek.github.com/debug.css with some modifications made by me. You can read about the thought process behind this bookmarklet from [this article](https://forum.freecodecamp.org/t/here-s-my-favorite-weird-trick-to-debug-css/189151).
+The orignal code is from [zaydek](zaydek.github.com/debug.css), with some modifications made by me. You can read about the thought process behind this bookmarklet from [this article](https://forum.freecodecamp.org/t/here-s-my-favorite-weird-trick-to-debug-css/189151).
